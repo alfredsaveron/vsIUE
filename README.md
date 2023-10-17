@@ -5,6 +5,11 @@ code examples, and resources related to the Computer Programming course offered 
 Izmir University of Economics' Computer Programming Department.
 ```
 
+  <div style="flex: 1;">
+    <img style="max-width: 100%; width: 100%" src="https://cumulusassociation.org/wp-content/uploads/2021/10/1128_logo_1280.jpg" alt="Ataturk Photo">
+  </div>
+</div>
+
 ## Course Overview
 
 MBP 105 is an introductory course that covers the fundamental concepts of programming. The course provides a solid foundation for understanding and applying programming principles, and it includes topics related to both the C and C# programming languages. The aim of this course is to gain students programming skills by aslo providing them theoretical programming knowledge.
