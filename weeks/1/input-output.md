@@ -1,4 +1,4 @@
-# Setting Up Standard Input and Output in C
+# Standard Input and Output
 
 In C programming, standard input (often referred to as `stdin`) is used for reading input, while standard output (`stdout`) is used for displaying output. These input and output operations are typically performed using functions provided by the `stdio.h` library. Here's how you can set up and use standard input and output in C.
 
