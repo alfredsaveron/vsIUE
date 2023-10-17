@@ -2,7 +2,7 @@
 ```
 Welcome to the MBP 105 (Essentials of Programming) course repository. This repository contains essential information, 
 code examples, and resources related to the Computer Programming course offered by 
-Izmir Ekonomi University's Computer Programming Department.
+Izmir University of Economics' Computer Programming Department.
 ```
 
 ## Course Overview
@@ -45,7 +45,7 @@ Throughout this repository, you will find code examples that illustrate the conc
 ## Resources
 
 - **Lecture Notes**: The repository includes lecture notes and presentations to support your learning.
-- **IUE**: [Click here](https://vs.ieu.edu.tr/computer_programming/en/syllabus/type/read/id/MBP+105)
+- **Izmir University of Economics**: [English](https://vs.ieu.edu.tr/computer_programming/en/syllabus/type/read/id/MBP+105), [Turkish](https://vs.ieu.edu.tr/computer_programming/tr/syllabus/type/read/id/MBP+105)
 - **Useful Links**: You'll find external resources, online tutorials, and references related to C and C# programming.
 
 ## Contributing
