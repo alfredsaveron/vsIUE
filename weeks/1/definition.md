@@ -1,7 +1,9 @@
 # Defining an Algorithm in C Programming
 
-```c
-When writing a program in the C programming language, it's crucial to define a clear and logical algorithm to guide your code. An algorithm is a step-by-step procedure or set of rules for solving a specific problem or task. This README outlines the essential steps for defining an algorithm before writing a C program.
+```md
+When writing a program in the C programming language, it's crucial to define a clear and logical algorithm to guide your code. 
+An algorithm is a step-by-step procedure or set of rules for solving a specific problem or task. 
+This file outlines the essential steps for defining an algorithm before writing a C program.
 ```
 ## Steps to Define an Algorithm
 
@@ -24,6 +26,3 @@ When writing a program in the C programming language, it's crucial to define a c
 9. **Refine and Optimize**: Review your algorithm, pseudocode, and overall plan. Seek opportunities to make your code more efficient and organized. Eliminate redundancies and improve the algorithm's performance.
 
 10. **Start Coding**: With a well-defined algorithm in place, you are now ready to begin coding your program. Follow your algorithm closely as you write the actual code.
-
-
-Remember that a well-defined algorithm simplifies the coding process and leads to more maintainable and reliable software.
