@@ -24,5 +24,3 @@ This file outlines the essential steps for defining an algorithm before writing 
 8. **Test Cases**: Define a set of test cases to validate the correctness of your algorithm. Testing ensures that your program works as expected and meets the defined requirements.
 
 9. **Refine and Optimize**: Review your algorithm, pseudocode, and overall plan. Seek opportunities to make your code more efficient and organized. Eliminate redundancies and improve the algorithm's performance.
-
-10. **Start Coding**: With a well-defined algorithm in place, you are now ready to begin coding your program. Follow your algorithm closely as you write the actual code.
