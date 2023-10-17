@@ -1,6 +1,6 @@
 using System;
 
-class ArithmeticOperatorsExample
+class Arithmetic
 {
     static void Main()
     {
