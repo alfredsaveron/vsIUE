@@ -12,7 +12,7 @@ Izmir University of Economics' Computer Programming Department.
 
 ## Course Overview
 
-**MBP 105** is an introductory course that covers the fundamental concepts of programming. The course provides a solid foundation for understanding and applying programming principles, and it includes topics related to both the C and C# programming languages. The aim of this course is to gain students programming skills by aslo providing them theoretical programming knowledge.
+**MBP 105** is an introductory course that covers the fundamental concepts of programming. The course provides a solid foundation for understanding and applying programming principles, and it includes topics related to both the C and C# programming languages. The aim of this course is to gain students programming skills by aslo providing them theoretical programming knowledge. **The content of this course includes programming languages, concepts, visual programming, object oriented design and also programming labs.**
 
 ## Table of Contents
 
