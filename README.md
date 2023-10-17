@@ -43,6 +43,11 @@ The course focuses on two important programming languages: C and C#. These langu
 - **C**: C is a low-level programming language that provides in-depth knowledge of memory management and system-level programming.
 - **C#**: C# is a high-level language that introduces modern programming concepts, including object-oriented programming and the .NET framework.
 
+  <div style="flex: 1;">
+    <img style="max-width: 100%; width: 100%" src="https://trucas.com.tr/sites/default/files/university/cover/2020-02/ie.jpg" alt="Ataturk Photo">
+  </div>
+</div>
+
 ## Code Examples
 
 Throughout this repository, you will find code examples that illustrate the concepts covered in the course. These examples are designed to help you understand and practice programming techniques.
