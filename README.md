@@ -46,10 +46,7 @@ Throughout this repository, you will find code examples that illustrate the conc
 
 - **Lecture Notes**: The repository includes lecture notes and presentations to support your learning.
 - **Izmir University of Economics**: [English](https://vs.ieu.edu.tr/computer_programming/en/syllabus/type/read/id/MBP+105), [Turkish](https://vs.ieu.edu.tr/computer_programming/tr/syllabus/type/read/id/MBP+105)
-- **Useful Links**: You'll find external resources, online tutorials, and references related to C and C# programming.
 
 ## Contributing
 
 If you are a student, you are encouraged to contribute to this repository by adding your own code examples, projects, or helpful resources related to the course. Feel free to create pull requests to share your knowledge and help fellow students.
-
-Thank you for being a part of the MBP 105 - Programming Fundamentals course at Izmir Ekonomi University's Computer Programming Department. Happy coding!
