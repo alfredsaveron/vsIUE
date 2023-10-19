@@ -1,4 +1,4 @@
-# C# Lang: Standard Input/Output Functions and Variable Definitions
+# Standard Input/Output Functions and Variable Definitions
 
 In C#, you can work with standard input and output, as well as define variables, using the `Console` class. Here's an overview of how to use standard input/output functions and define variables in C#.
 
