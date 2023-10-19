@@ -1,4 +1,4 @@
-# C# Language: Detailed Standard Input/Output Functions and Variable Definitions
+# Detailed Standard Input/Output Functions and Variable Definitions
 
 In C#, standard input and output are typically handled through the `Console` class, which provides various methods for interacting with the console. This guide covers standard input/output functions and variable definitions in C#.
 
