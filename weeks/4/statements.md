@@ -1,4 +1,4 @@
-# C# Language: Conditional Statements (if-else)
+# Conditional Statements (if-else)
 
 Conditional statements in C# allow you to make decisions in your code based on specific conditions. The `if-else` statement is one of the most commonly used conditional statements in C#. This guide provides a detailed explanation of how to use `if-else` statements in your C# code.
 
