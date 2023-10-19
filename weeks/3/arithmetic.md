@@ -1,4 +1,4 @@
-# C# Language: Detailed Arithmetic Operators and Operation Priorities
+# Detailed Arithmetic Operators and Operation Priorities
 
 In C#, arithmetic operators are used to perform basic mathematical operations on numerical values. This guide provides comprehensive information about arithmetic operators and their operation priorities.
 
